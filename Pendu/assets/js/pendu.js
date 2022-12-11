@@ -23,7 +23,7 @@ listemot[6] = "hentai";
 listemot[7] = "creampie";
 listemot[8] = "pipe";
 listemot[9] = "squirt";
-listemot[10] = "hitler";
+listemot[10] = "Xandouille";
 listemot[11] = "aushwitz";
 
 //fonction qui retourne un nombre aléatoire
